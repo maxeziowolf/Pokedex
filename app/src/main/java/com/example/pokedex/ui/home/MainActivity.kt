@@ -12,6 +12,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.Retrofit
 import android.widget.Toast
 
+
 import android.view.View
 import android.widget.Button
 import android.widget.ImageView
@@ -23,13 +24,15 @@ import com.example.pokedex.ui.pokedexal.PokedexAleatorioActivity
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
-    var imagen_pokemon: ImageView? = null
-    var boton_ir_pokemon: Button? = null
-    var boton_salir_pokemon: Button? = null
+    private lateinit var  imagen_pokemon: ImageView
+    private lateinit var  boton_ir_pokemon: Button
+    private lateinit var  boton_salir_pokemon: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+
 
         supportActionBar?.hide()
         initComponentes()

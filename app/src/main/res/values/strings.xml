@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="pokemon">Pokémon</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="bienvenido_texto">Aquí podrás conocer varios tipos de Pokémon de forma aleatoria.</string>
+    <string name="bienvenido_boton_1">Ir a pokédex</string>
+    <string name="bienvenido_boton_2">Salir</string>
+    <string name="pekedex_boton_1">Regresar</string>
+    <string name="pekedex_boton_2">Mostrar Pokémon</string>
+
+
+    <string name="id">ID:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="altura">Altura:</string>
+    <string name="peso">Peso:</string>
+    <string name="experiencia">Experiencia Base:</string>
+</resources>

@@ -14,19 +14,20 @@ Lo bueno de esta aplicación, no se necesita nada más que realizar una copia o 
 
 ## Capturas del proyecto 📷 
 
-*Pantalla inicial*
+<h2>Pantalla inicial</h2>
 
-!(ImagenPrincipal)[]
+<div align="center" >
+  <img src="/screenshots/principal.jpg" alt="ImagenPrincipal" width="400" height="800" align="center" >
+  <img src="/screenshots/principal_variante.jpg" alt="ImagenPrincipal2" width="400" height="800" align="center" >
+</div>
 
-!(ImagenPrincipal2)[]
+</br>
+<h2>Consulta de de Pokémons</h2>
 
-*Consulta de de Pokémons*
-
-!(Variante)[]
-
-!(Variante1)[]
-
-!(Variante2)[]
+<div align="center" >
+  <img src="/screenshots/pokedex.jpg" alt="Variante" width="400" height="800" align="center" >
+  <img src="/screenshots/pokedex_variante.jpg" alt="Variante1" width="400" height="800" align="center" >
+</div>
 
 
 ## Construido con 🛠️

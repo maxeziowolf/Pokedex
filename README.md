@@ -42,7 +42,8 @@ API que proporciono la información necesaria para mostrar dichos Pokémons
 
 ## Versionado 📌 
 
-Version actual 1.0
+Version actual 1.0.0
+
 
 ## Autores ✒️
 
